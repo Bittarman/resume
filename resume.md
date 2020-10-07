@@ -1,14 +1,21 @@
+---
+title: Ryan Mauger's professional Resume
+permalink: /index.html
+---
+
 Ryan Mauger
 ===========
 
------------------
+--------------------
+
 10 Kingfisher Drive
 Yeovil
 Somerset
 BA22 8FJ
 M: 07812 608861
-ryan@rmauger.co.uk 
------------------
+ryan@rmauger.co.uk
+
+---------------------
 
 Profile
 -------
